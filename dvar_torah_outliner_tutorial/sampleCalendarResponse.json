@@ -1,0 +1,163 @@
+{
+  "date": "2024-07-31",
+  "timezone": "America/Halifax",
+  "calendar_items": [
+    {
+      "title": { "en": "Parashat Hashavua", "he": "פרשת השבוע" },
+      "displayValue": { "en": "Matot-Masei", "he": "מטות-מסעי" },
+      "url": "Numbers.30.2-36.13",
+      "ref": "Numbers 30:2-36:13",
+      "heRef": "במדבר ל׳:ב׳-ל״ו:י״ג",
+      "order": 1,
+      "category": "Tanakh",
+      "extraDetails": {
+        "aliyot": [
+          "Numbers 30:2-31:12",
+          "Numbers 31:13-31:54",
+          "Numbers 32:1-32:19",
+          "Numbers 32:20-33:49",
+          "Numbers 33:50-34:15",
+          "Numbers 34:16-35:8",
+          "Numbers 35:9-36:13",
+          "Numbers 36:11-36:13"
+        ]
+      },
+      "description": {
+        "en": "Matot (“Tribes”) opens with laws about vows, and continues to describe the Israelites’ war against the Midianites and the allocation of spoils. The tribes of Reuben and Gad request to dwell outside of the Land of Israel, and Moses acquiesces on the condition that they help conquer it.\n\nMasei (“Travels”), the final Torah portion in the Book of Numbers, opens with a list of places that the Israelites traveled in the desert. God commands the Israelites to destroy idolatry in the Land of Israel, outlines Israel’s boundaries, and details the laws of cities of refuge for accidental killers.",
+        "he": "פרשת מטות פותחת בדיני נדרים ושבועות. משה מצווה את בני ישראל להילחם במדיין, ולאחר הניצחון העם מחלק את השלל. בני גד ובני ראובן מבקשים לנחול מחוץ לארץ כנען, בעבר הירדן המזרחי, משום שיש להם מקנה רב. משה מתנגד בתחילה, אך לבסוף מגיע להסדר שלפיו ינחלו השבטים בעבר הירדן המזרחי בתנאי שיעברו חלוצים במלחמה על כיבוש הארץ.\n\nפרשת מסעי מתעדת את מסעות בני ישראל בארבעים שנות נדודיהם במדבר. אלוהים מצווה להשמיד את העבודה הזרה ועובדיה בארץ כנען. מתוארים גבולות הארץ בעבר הירדן המערבי עם רשימת נשיאים מכל שבט שיחלקו את הארץ עם יהושע ואלעזר. מפורטים ערי הלוויים וערי המקלט. נאסר על בנות צלפחד ויורשות אחרות של קרקעות להתחתן מחוץ לשבט כדי שלא תעבור נחלה משבט לשבט."
+      }
+    },
+    {
+      "title": { "en": "Haftarah", "he": "הפטרה" },
+      "displayValue": { "en": "Jeremiah 2:4-28", "he": "ירמיהו ב׳:ד׳-כ״ח" },
+      "url": "Jeremiah.2.4-28",
+      "ref": "Jeremiah 2:4-28",
+      "order": 2,
+      "category": "Tanakh"
+    },
+    {
+      "title": { "en": "Haftarah", "he": "הפטרה" },
+      "displayValue": { "en": "Jeremiah 3:4", "he": "ירמיהו ג׳:ד׳" },
+      "url": "Jeremiah.3.4",
+      "ref": "Jeremiah 3:4",
+      "order": 2,
+      "category": "Tanakh"
+    },
+    {
+      "title": { "en": "Daf Yomi", "he": "דף יומי" },
+      "displayValue": { "en": "Bava Batra 36", "he": "בבא בתרא ל״ו" },
+      "url": "Bava_Batra.36",
+      "ref": "Bava Batra 36",
+      "order": 3,
+      "category": "Talmud"
+    },
+    {
+      "title": { "en": "929", "he": "929" },
+      "displayValue": { "en": "Psalms 82 (649)", "he": "תהילים פ״ב (649)" },
+      "url": "Psalms.82",
+      "ref": "Psalms 82",
+      "order": 4,
+      "category": "Tanakh"
+    },
+    {
+      "title": { "en": "Daily Mishnah", "he": "משנה יומית" },
+      "displayValue": {
+        "en": "Mishnah Kiddushin 3:12-13",
+        "he": "משנה קידושין ג׳:י״ב-י״ג"
+      },
+      "url": "Mishnah_Kiddushin.3.12-13",
+      "ref": "Mishnah Kiddushin 3:12-13",
+      "order": 5,
+      "category": "Mishnah"
+    },
+    {
+      "title": { "en": "Daily Rambam", "he": "הרמב\"ם היומי" },
+      "displayValue": {
+        "en": "Admission into the Sanctuary 8",
+        "he": "הלכות ביאת מקדש ח׳"
+      },
+      "url": "Mishneh_Torah,_Admission_into_the_Sanctuary.8",
+      "ref": "Mishneh Torah, Admission into the Sanctuary 8",
+      "order": 6,
+      "category": "Halakhah"
+    },
+    {
+      "title": {
+        "en": "Daily Rambam (3 Chapters)",
+        "he": "הרמב\"ם היומי (3 פרקים)"
+      },
+      "displayValue": {
+        "en": "Heave Offerings 4-6",
+        "he": "הלכות תרומות ד׳-ו׳"
+      },
+      "url": "Mishneh_Torah,_Heave_Offerings.4-6",
+      "ref": "Mishneh Torah, Heave Offerings 4-6",
+      "order": 7,
+      "category": "Halakhah"
+    },
+    {
+      "title": { "en": "Daf a Week", "he": "דף השבוע" },
+      "displayValue": { "en": "Ketubot 99", "he": "כתובות צ״ט" },
+      "url": "Ketubot.99",
+      "ref": "Ketubot 99",
+      "order": 8,
+      "category": "Talmud"
+    },
+    {
+      "title": { "en": "Halakhah Yomit", "he": "הלכה יומית" },
+      "displayValue": {
+        "en": "Shulchan Arukh, Orach Chayim 677:1-3",
+        "he": "שולחן ערוך, אורח חיים תער״ז:א׳-ג׳"
+      },
+      "url": "Shulchan_Arukh,_Orach_Chayim.677.1-3",
+      "ref": "Shulchan Arukh, Orach Chayim 677:1-3",
+      "order": 9,
+      "category": "Halakhah"
+    },
+    {
+      "title": { "en": "Arukh HaShulchan Yomi", "he": "ערוך השולחן היומי" },
+      "displayValue": {
+        "en": "Yoreh De'ah 296:52-61",
+        "he": "יורה דעה רצ״ו:נ״ב-ס״א"
+      },
+      "url": "Arukh_HaShulchan,_Yoreh_De'ah.296.52-61",
+      "ref": "Arukh HaShulchan, Yoreh De'ah 296:52-61",
+      "order": 10,
+      "category": "Halakhah"
+    },
+    {
+      "title": { "en": "Tanakh Yomi", "he": "תנ\"ך יומי" },
+      "displayValue": { "en": "Esther Seder 4", "he": "אסתר סדר ד" },
+      "url": "Esther.6.11-8.15",
+      "ref": "Esther 6:11-8:15",
+      "order": 11,
+      "category": "Tanakh"
+    },
+    {
+      "title": { "en": "Chok LeYisrael", "he": "חק לישראל" },
+      "displayValue": { "en": "Matot", "he": "מטות" },
+      "url": "collections/חק-לישראל?tag=Matot",
+      "order": 12,
+      "category": "Tanakh"
+    },
+    {
+      "title": { "en": "Tanya Yomi", "he": "תניא יומי" },
+      "displayValue": { "en": "25 Tammuz", "he": "כה תמוז" },
+      "url": "Tanya,_Part_III;_Iggeret_HaTeshuvah.7.1",
+      "ref": "Tanya, Part III; Iggeret HaTeshuvah 7:1",
+      "order": 15,
+      "category": "Chasidut"
+    },
+    {
+      "title": { "en": "Yerushalmi Yomi", "he": "ירושלמי יומי" },
+      "displayValue": {
+        "en": "Jerusalem Talmud Beitzah 3",
+        "he": "תלמוד ירושלמי ביצה ג"
+      },
+      "url": "Jerusalem_Talmud_Beitzah.1.1.9-3.2",
+      "ref": "Jerusalem Talmud Beitzah 1:1:9-3:2",
+      "order": 16,
+      "category": "Talmud"
+    }
+  ]
+}
